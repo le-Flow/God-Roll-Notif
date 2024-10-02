@@ -1,0 +1,7 @@
+{
+    "name": "GodRollNotif",
+    "creator": "Deflow",
+    "description": "Notifys you if you get a Kuudra GodRoll!",
+    "version": "1.0.0",
+    "entry": "index.js"
+  }
